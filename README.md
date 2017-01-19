@@ -6,7 +6,7 @@ The HTML is an index page containing a simple interface styled using css. It con
 ## Installation
 1. Ensure you have a browser installed in you machine.
 2. Ensure all the contents of the repo are in the same folder before running (i.e pics, html, and css).
-3. Run index.html ()
+3. Run index.html
 
 ## Contributors
 Lewis M. K.
