@@ -120,10 +120,19 @@ input[type=text] {
     border: 2px solid #ccc;
     background-color: #f8f8f8;
     border-radius: 4px;
-
 }
-
+input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+}
 input[type=text]:focus {
     width: 80%;
 }
+
+
 	
