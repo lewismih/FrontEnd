@@ -1,9 +1,12 @@
 # INTERFACE CREATED USING HTML AND CSS
 
-#### The HTML is an index page containing a simple interface styled using css. It contains some random info about "MICHEANGELO" and a qoute by "E.Roosevelt"
+## Introduction
+The HTML is an index page containing a simple interface styled using css. It contains some random info. Almost at the bottom is a simple form that asks for Name, Email and Message, and has a submit button.
 
-#### Almost at the bottom is a simple form that asks for Name, Email and Message, and has a submit button.
+## Installation
+1. Ensure you have a browser installed in you machine.
+2. Ensure all the contents of the repo are in the same folder before running (i.e pics, html, and css).
+3. Run index.html ()
 
-#### Ends with a Footer.
-
-#### Also contains 5 links at the top, but only Home is active. On the right, is a sidebar with 4 links (all disabled). And a Contacts tab with random info.
+## Contributors
+Lewis M. K.
